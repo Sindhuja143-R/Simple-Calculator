@@ -19,4 +19,4 @@ A basic calculator built using **HTML**, **CSS**, and **JavaScript**. It perform
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/kottanaindrakiran/Simple-Calculator.git
+   git clone https://github.com/Sindhuja143-R/Simple-Calculator.git
